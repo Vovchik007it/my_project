@@ -16,7 +16,6 @@ def mask_account_card(account_card: str) -> str:
 
     return f"{name} {masked_number}"
 
-
 def get_date(date_string: str) -> str:
     date = datetime.fromisoformat(date_string)
     return date.strftime("%d.%m.%Y")
