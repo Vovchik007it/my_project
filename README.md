@@ -9,3 +9,8 @@
 
 git clone <URL-вашего-репозитория>
 cd <имя-репозитория>
+
+Добавленны тест функции для файлов:
+test_masks.py
+test_widget.py
+test_processing.py
